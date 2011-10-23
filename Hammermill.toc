@@ -1,0 +1,9 @@
+## Interface: 40100
+## Title: Hammermill
+## Notes: Mill herbs with a single click.
+## Author: Brant
+LibBagUtils-1.0\LibStub.lua
+LibBagUtils-1.0\LibBagUtils-1.0\LibBagUtils-1.0.lua
+Hammermill.lua
+
+

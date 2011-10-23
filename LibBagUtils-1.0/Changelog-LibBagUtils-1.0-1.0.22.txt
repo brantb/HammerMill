@@ -1,0 +1,19 @@
+------------------------------------------------------------------------
+r23 | mikk | 2011-03-27 08:16:37 +0000 (Sun, 27 Mar 2011) | 1 line
+Changed paths:
+   A /tags/1.0.22 (from /trunk:22)
+
+Tagging as 1.0.22
+------------------------------------------------------------------------
+r22 | mikk | 2011-03-27 08:14:14 +0000 (Sun, 27 Mar 2011) | 1 line
+Changed paths:
+   M /trunk/LibBagUtils-1.0.toc
+
+Toc bump for 40000. Oops =)
+------------------------------------------------------------------------
+r21 | cyberwitch | 2010-12-26 02:57:37 +0000 (Sun, 26 Dec 2010) | 1 line
+Changed paths:
+   M /trunk/LibBagUtils-1.0/LibBagUtils-1.0.lua
+
+Added check for nil itemcount (AKA empty bag slot) in FindSmallestStack.
+------------------------------------------------------------------------
