@@ -1,0 +1,14 @@
+# Hammermill
+For industrial-scale milling.
+
+## How to use
+1. Install the addon.
+2. Make an in-game macro with the text `/click mmb`.
+3. Put it on an action bar.
+4. Click it. Repeatedly.
+
+## Known bugs
+* HammerMill won't mill a stack of herbs smaller than 5, even if you have more than 5 of that herb in your packs. You have to stack them yourself.
+* HammerMill won't skip herbs you don't have sufficient Inscription skill to mill.
+* Don't use HammerMill while a bank or vendor window is open. Clicking the button while a mill operation is already in progress sometimes results in herbs being placed in the bank or sold to a vendor.
+
